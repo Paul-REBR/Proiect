@@ -1,0 +1,20 @@
+body{
+    background-color: darkgray;
+}
+a{
+    font-size: 27px;
+  margin-left: 4%;
+  color: blue;
+  font-style: italic;
+}nav {
+    background-color: darkgray;
+}
+li{
+    margin-left: 80%;
+}
+li::marker{
+    color: darkgray;
+}
+footer{
+    font-size: 30px;
+}
